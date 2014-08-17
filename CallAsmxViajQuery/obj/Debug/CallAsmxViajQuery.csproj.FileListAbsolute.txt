@@ -1,0 +1,4 @@
+c:\users\jay\documents\visual studio 2010\Projects\CallAsmxViajQuery\CallAsmxViajQuery\bin\CallAsmxViajQuery.dll
+c:\users\jay\documents\visual studio 2010\Projects\CallAsmxViajQuery\CallAsmxViajQuery\bin\CallAsmxViajQuery.pdb
+c:\users\jay\documents\visual studio 2010\Projects\CallAsmxViajQuery\CallAsmxViajQuery\obj\Debug\CallAsmxViajQuery.dll
+c:\users\jay\documents\visual studio 2010\Projects\CallAsmxViajQuery\CallAsmxViajQuery\obj\Debug\CallAsmxViajQuery.pdb
